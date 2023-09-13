@@ -4,6 +4,7 @@ Based on [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getti
 
 1. Clone the repo
 2. Open the repo folder in CLI and run `source .venv/bin/activate`
-3. Page will be serving on [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
+3. Then run `mkdocs serve`
+4. Page will be serving on [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 
 Note: The repo has GitHub action running, so you don't need to go through the command, you can just update the documentation on markdown and push, and page deployment will done automatically. 
