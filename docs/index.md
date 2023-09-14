@@ -1,20 +1,4 @@
-# Welcome to MkDocs
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-
-# CI test 
+# Make for Animals
+We’re a group of people who’ve met up among the Fab ecosystem, with the goal of creating simple, frugal and easily fabricable aids for disabled or injured animals.
+<br>Our current goal is to address injured and amputee dogs, as a starting point.
+<p align="center"><img alt="group" src="../../images/grp.jpg" /></p>
