@@ -1,3 +1,8 @@
 site_name: Make4Animals 
 theme:
   name: material
+  palette:
+    primary: "white"
+    accent: "green"
+  font:
+    text: Playfair Display
