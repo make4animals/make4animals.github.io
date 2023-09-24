@@ -1,8 +1,8 @@
-site_name: Make4Animals 
+site_name: Make For Animals 
 theme:
   name: material
   palette:
     primary: "white"
     accent: "green"
   font:
-    text: Playfair Display
+    text: Assistant
