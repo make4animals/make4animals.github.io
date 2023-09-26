@@ -3,6 +3,33 @@ theme:
   name: material
   palette:
     primary: "white"
-    accent: "green"
+    accent: "blue"
   font:
     text: Assistant
+features:
+    - navigation.tabs
+  custom_dir: 'overrides'
+  plugins:
+  - search
+  - optimize
+  - projects
+  extra_css:
+  - https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css
+  - stylesheets/extra.css
+extra:
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.tabbed
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
