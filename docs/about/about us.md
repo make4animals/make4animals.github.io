@@ -3,6 +3,7 @@
 Welcome to Make for Animals, where compassion meets innovation!
 
 At Make for Animals, we are a passionate group of individuals who came together through the Fab ecosystem, driven by a common purpose - to make a meaningful difference in the lives of disabled or injured animals. Our mission is simple yet profound: to create accessible, cost-effective, and easily fabricable aids for our furry friends in need.
+<p align="center"><img alt="group" src="../../images/grp.jpg" /></p>
 
 ## Our Journey
 
@@ -24,7 +25,7 @@ We invite you to join us in this incredible journey of compassion, creativity, a
 
 Have an idea, a question, or simply want to connect with our team? Don't hesitate to reach out! Your support, insights, and collaboration are invaluable to us. Let's work together to make the world a better place for animals, one innovative solution at a time.
 
-Please dropr a mail: makeforanimals@gmail.com
+Please drop a mail: makeforanimals@gmail.com
 
 Thank you for being a part of Make for Animals.
 
