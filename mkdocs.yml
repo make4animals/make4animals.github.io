@@ -9,17 +9,13 @@ theme:
 features:
     - navigation.tabs
   custom_dir: 'overrides'
-  plugins:
+plugins:
   - search
   - optimize
   - projects
-  extra_css:
+extra_css:
   - https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css
   - stylesheets/extra.css
-extra:
-  analytics:
-    provider: google
-    property: G-XXXXXXXXXX
 markdown_extensions:
   - admonition
   - codehilite:
