@@ -2,10 +2,10 @@ site_name: Make For Animals
 theme:
   name: material
   features:
+    - navigation.top
     - navigation.tabs
     - navigation.sections
     - toc.integrate
-    - navigation.top
     - search.suggest
     - search.highlight
     - content.tabs.link
