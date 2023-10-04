@@ -6,6 +6,9 @@ theme:
     accent: #9b111e
 features:
     - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
 plugins:
   - search
 extra_css:
