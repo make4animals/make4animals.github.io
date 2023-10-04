@@ -1,14 +1,23 @@
 site_name: Make For Animals 
 theme:
   name: material
-  palette:
-    primary: "white"
-    accent: #9b111e
-features:
+  features:
     - navigation.tabs
     - navigation.sections
     - toc.integrate
     - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+      primary: white
+      accent: blue
+plugins:
+  - social
+  - search
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
@@ -22,8 +31,15 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
-plugins:
-  - search
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 extra_css:
   - https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css
   - stylesheets/extra.css
+extra:
+  social:
+    - icon: fontawesome/brands/youtube
+    - icon: fontawesome/brands/github-alt
+    - icon: fontawesome/brands/facebook
+    - icon: fontawesome/brands/linkedin
