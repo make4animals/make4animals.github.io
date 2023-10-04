@@ -15,9 +15,7 @@ theme:
   palette:
       primary: white
       accent: blue
-  font: 
-  text: Aktiv Grotesk Regular
-plugins:
+ plugins:
   - social
   - search
 markdown_extensions:
@@ -45,3 +43,5 @@ extra:
     - icon: fontawesome/brands/github-alt
     - icon: fontawesome/brands/facebook
     - icon: fontawesome/brands/linkedin
+ font: 
+  text: Aktiv Grotesk Regular
