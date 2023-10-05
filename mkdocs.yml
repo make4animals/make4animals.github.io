@@ -18,8 +18,7 @@ theme:
 plugins:
   - social
   - search
-  - glightbox
-markdown_extensions:
+ markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -33,7 +32,6 @@ markdown_extensions:
   - pymdownx.mark
   - tables
   - attr_list
-  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
