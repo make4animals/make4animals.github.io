@@ -9,6 +9,7 @@
 |Height:      |                                   |
 |Colour:      |Predominantly White colour coat    |
 |Location     |India, Kerala, Kochi               |
+
 <!-- Slider main container -->
 <div class="swiper">
 <!-- Additional required wrapper -->
@@ -26,11 +27,8 @@
     <div class="swiper-slide">
         <center><img src="../../images/projects/mothydog/4.jpg" alt="Mothy"></center> 
     </div>
-    <div class="swiper-slide">
-        <center><img src="../../images/projects/mothydog/5.jpeg" alt="Mothy"></center> 
-    </div>
-         <div class="swiper-slide">
-        <center><iframe src="https://youtu.be/jQ2UmnDj8Co" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
+     <div class="swiper-slide">
+        <center><iframe src="https://youtu.be/jQ2UmnDj8Co?si=Et-NG1CcvKBVANYG" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
     </div>
 </div>
 <div class="swiper-pagination"></div>
