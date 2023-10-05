@@ -1,4 +1,4 @@
-#Mothy needs a front leg
+# Mothy needs a front leg
 | Item     | Description                          |
 | ----------- | --------------------------------- |
 | Name :      |Mothy                              |  
@@ -35,6 +35,8 @@
 <div class="swiper-button-prev"></div>
 <div class="swiper-button-next"></div>
 </div>
+
+A cast was made from Mothy's foot and we also 3D scanned the dog.
 
 
 
