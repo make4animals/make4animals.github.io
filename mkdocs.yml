@@ -2,7 +2,7 @@ site_name: Make For Animals
 theme:
   name: material
   font:
-    text: Playfair Display
+    text: Hind Madurai
   features:
     - navigation.top
     - navigation.tabs
