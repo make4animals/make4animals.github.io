@@ -29,10 +29,6 @@
     <div class="swiper-slide">
         <center><img src="../../images/projects/mothydog/5.jpeg" alt="Mothy"></center> 
     </div>
-    <div class="swiper-slide">
-        <center><iframe src="../../images/projects/mothydog/6.mp4" alt="Mothy" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
-    </div>
-
 </div>
 <div class="swiper-pagination"></div>
 <div class="swiper-button-prev"></div>
