@@ -15,19 +15,22 @@
 <div class="swiper-wrapper">
     <!-- Slides -->
     <div class="swiper-slide">   
-        <center><img src="../../images/projects/mothydog/1.jpeg" alt="Mothy"></center>
+        <center><img src="../../images/projects/mothydog/1.jpg" alt="Mothy"></center>
         </div>
     <div class="swiper-slide">
-        <center><img src="../../images/projects/mothydog/2.jpeg" alt="Mothy"></center> 
+        <center><img src="../../images/projects/mothydog/2.jpg" alt="Mothy"></center> 
     </div>
     <div class="swiper-slide">
-        <center><img src="../../images/projects/mothydog/3.jpeg" alt="Mothy"></center>
+        <center><img src="../../images/projects/mothydog/3.jpg" alt="Mothy"></center>
     </div>
     <div class="swiper-slide">
-        <center><img src="../../images/projects/mothydog/4.jpeg" alt="Mothy"></center> 
+        <center><img src="../../images/projects/mothydog/4.jpg" alt="Mothy"></center> 
     </div>
     <div class="swiper-slide">
         <center><img src="../../images/projects/mothydog/5.jpeg" alt="Mothy"></center> 
+    </div>
+         <div class="swiper-slide">
+        <center><iframe src="https://youtu.be/jQ2UmnDj8Co" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
     </div>
 </div>
 <div class="swiper-pagination"></div>
