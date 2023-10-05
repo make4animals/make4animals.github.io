@@ -1,6 +1,8 @@
 site_name: Make For Animals 
 theme:
   name: material
+  font:
+    text: Playfair Display
   features:
     - navigation.top
     - navigation.tabs
@@ -43,5 +45,3 @@ extra:
     - icon: fontawesome/brands/github-alt
     - icon: fontawesome/brands/facebook
     - icon: fontawesome/brands/linkedin
- font: 
-  text: Aktiv Grotesk Regular
