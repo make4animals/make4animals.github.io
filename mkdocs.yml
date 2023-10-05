@@ -1,8 +1,6 @@
 site_name: Make For Animals 
 theme:
   name: material
-
-
   features:
     - navigation.top
     - navigation.tabs
@@ -17,7 +15,7 @@ theme:
   palette:
       primary: white
       accent: blue
- plugins:
+plugins:
   - social
   - search
 markdown_extensions:
