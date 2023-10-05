@@ -2,7 +2,10 @@ site_name: Make For Animals
 theme:
   name: material
   font:
-    text: Hind Madurai
+    # See available fonts from https://fonts.google.com/
+    text: Arima Madurai
+    code: Roboto Mono
+
   features:
     - navigation.top
     - navigation.tabs
