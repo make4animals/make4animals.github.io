@@ -15,8 +15,6 @@ theme:
   palette:
       primary: white
       accent: yellow
-  font:
-    text: Arima Madurai
 plugins:
   - social
   - search
