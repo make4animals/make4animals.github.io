@@ -19,13 +19,13 @@ theme:
       accent: yellow
   font:
     # See available fonts from https://fonts.google.com/
-    text: Arima Madurai
+    text: Playfair Display
     code: Roboto Mono
 
 plugins:
   - social:
      cards_layout_options:
-        font_family: Arima
+        font_family: Playfair
   - search
 extra_css:
   - https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css
