@@ -18,7 +18,7 @@ theme:
       primary: white
       accent: yellow
 plugins:
-  - social
+  - social:
      cards_layout_options:
         font_family: Arima
   - search
