@@ -17,6 +17,11 @@ theme:
   palette:
       primary: white
       accent: yellow
+  font:
+    # See available fonts from https://fonts.google.com/
+    text: Arima Madurai
+    code: Roboto Mono
+
 plugins:
   - social:
      cards_layout_options:
