@@ -14,7 +14,7 @@ theme:
   language: en
   palette:
       primary: white
-      accent: blue
+      accent: yellow
 plugins:
   - social
   - search
