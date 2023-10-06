@@ -25,7 +25,7 @@ theme:
 plugins:
   - social:
      cards_layout_options:
-        font_family: Playfair
+        font_family: Playfair Display
   - search
 extra_css:
   - https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css
